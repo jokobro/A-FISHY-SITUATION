@@ -1168,3 +1168,4 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.19-14.37.54:149][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
 [2025.11.19-14.37.54:170][239]Display: HotReload took  7.2s.
 [2025.11.19-14.37.54:170][239]Display: Reload/Re-instancing Complete: 1 package changed, 4 classes unchanged
+[2025.11.19-14.39.19:325][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
