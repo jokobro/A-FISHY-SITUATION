@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AFISHYSITUATION.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AFISHYSITUATION.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AFISHYSITUATIONEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\AFISHYSITUATION.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AFISHYSITUATION">
+      <UniqueIdentifier>{A63DF82F-0D92-3FF8-AB57-804921EB642E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AFISHYSITUATION\AFISHYSITUATION.Build.cs">
+      <Filter>Source\AFISHYSITUATION</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AFISHYSITUATION\AFISHYSITUATION.cpp">
+      <Filter>Source\AFISHYSITUATION</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AFISHYSITUATION\AFISHYSITUATION.h">
+      <Filter>Source\AFISHYSITUATION</Filter>
+    </ClInclude>
+    <Filter Include="Source\AFISHYSITUATION\Jochem">
+      <UniqueIdentifier>{0666A741-744B-325A-9C9E-3EC170920058}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\AFISHYSITUATION\Jochem\MyPawn.cpp">
+      <Filter>Source\AFISHYSITUATION\Jochem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AFISHYSITUATION\Jochem\MyPawn.h">
+      <Filter>Source\AFISHYSITUATION\Jochem</Filter>
+    </ClInclude>
+    <Filter Include="Source\AFISHYSITUATION\Roy">
+      <UniqueIdentifier>{B15304DB-96AB-3A71-87C6-15E475DFD269}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\AFISHYSITUATION\Roy\lo.cpp">
+      <Filter>Source\AFISHYSITUATION\Roy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AFISHYSITUATION\Roy\lo.h">
+      <Filter>Source\AFISHYSITUATION\Roy</Filter>
+    </ClInclude>
+    <Filter Include="Source\AFISHYSITUATION\Teshawn">
+      <UniqueIdentifier>{A571AD15-7895-3D30-BF0C-8438569D9ECC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\AFISHYSITUATION\Teshawn\MyPawn1.cpp">
+      <Filter>Source\AFISHYSITUATION\Teshawn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AFISHYSITUATION\Teshawn\MyPawn1.h">
+      <Filter>Source\AFISHYSITUATION\Teshawn</Filter>
+    </ClInclude>
+    <Filter Include="Source\AFISHYSITUATION\Thomas">
+      <UniqueIdentifier>{760AD4D7-1322-3031-BE3F-08881DB85FCE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\AFISHYSITUATION\Thomas\test.cpp">
+      <Filter>Source\AFISHYSITUATION\Thomas</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AFISHYSITUATION\Thomas\test.h">
+      <Filter>Source\AFISHYSITUATION\Thomas</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

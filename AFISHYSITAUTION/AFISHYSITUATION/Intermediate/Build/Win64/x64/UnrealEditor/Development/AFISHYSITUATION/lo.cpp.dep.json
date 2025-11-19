@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\game development\\unreal engine projects\\afishysituation\\afishysituation\\afishysitaution\\afishysituation\\source\\afishysituation\\roy\\lo.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\game development\\unreal engine projects\\afishysituation\\afishysituation\\afishysitaution\\afishysituation\\intermediate\\build\\win64\\x64\\afishysituationeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\game development\\unreal engine projects\\afishysituation\\afishysituation\\afishysitaution\\afishysituation\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\afishysituation\\definitions.afishysituation.h",
+            "d:\\game development\\unreal engine projects\\afishysituation\\afishysituation\\afishysitaution\\afishysituation\\source\\afishysituation\\roy\\lo.h",
+            "d:\\game development\\unreal engine projects\\afishysituation\\afishysituation\\afishysitaution\\afishysituation\\intermediate\\build\\win64\\unrealeditor\\inc\\afishysituation\\uht\\lo.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

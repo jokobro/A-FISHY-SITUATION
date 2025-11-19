@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AFISHYSITUATION",
+			"Path": "..\\Source\\AFISHYSITUATION.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AFISHYSITUATIONEditor",
+			"Path": "..\\Source\\AFISHYSITUATIONEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
