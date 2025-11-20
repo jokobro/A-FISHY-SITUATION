@@ -46,6 +46,12 @@
     <Filter Include="Source\AFISHYSITUATION\Jochem">
       <UniqueIdentifier>{0666A741-744B-325A-9C9E-3EC170920058}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\AFISHYSITUATION\Jochem\Interactables.cpp">
+      <Filter>Source\AFISHYSITUATION\Jochem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AFISHYSITUATION\Jochem\Interactables.h">
+      <Filter>Source\AFISHYSITUATION\Jochem</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\AFISHYSITUATION\Jochem\MyPawn.cpp">
       <Filter>Source\AFISHYSITUATION\Jochem</Filter>
     </ClCompile>

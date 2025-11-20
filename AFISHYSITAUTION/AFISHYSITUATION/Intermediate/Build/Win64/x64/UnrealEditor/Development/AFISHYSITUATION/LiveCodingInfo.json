@@ -3,6 +3,7 @@
 	{
 		"Module.AFISHYSITUATION.gen.cpp.obj": [
 			"AFISHYSITUATION.init.gen.cpp.obj",
+			"Interactables.gen.cpp.obj",
 			"lo.gen.cpp.obj",
 			"MyPawn.gen.cpp.obj",
 			"MyPawn1.gen.cpp.obj",

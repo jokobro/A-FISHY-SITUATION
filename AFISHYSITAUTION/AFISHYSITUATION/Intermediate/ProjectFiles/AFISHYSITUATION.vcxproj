@@ -264,6 +264,10 @@
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClInclude Include="..\..\Source\AFISHYSITUATION\AFISHYSITUATION.h"/>
+    <ClCompile Include="..\..\Source\AFISHYSITUATION\Jochem\Interactables.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AFISHYSITUATION\Jochem\Interactables.h"/>
     <ClCompile Include="..\..\Source\AFISHYSITUATION\Jochem\MyPawn.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>

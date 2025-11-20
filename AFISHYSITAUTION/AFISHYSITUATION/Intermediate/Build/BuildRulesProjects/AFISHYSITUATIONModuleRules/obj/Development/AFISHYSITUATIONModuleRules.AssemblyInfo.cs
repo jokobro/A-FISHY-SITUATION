@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AFISHYSITUATIONModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c873835e3015986588ed70189cffb84660644cf7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bdd108b6a57b15ec3ff53e32a51da4847fc8dd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("AFISHYSITUATIONModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AFISHYSITUATIONModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

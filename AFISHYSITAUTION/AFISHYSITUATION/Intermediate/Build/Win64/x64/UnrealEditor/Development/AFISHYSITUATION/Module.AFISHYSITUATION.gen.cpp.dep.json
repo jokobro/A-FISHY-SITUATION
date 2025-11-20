@@ -7,6 +7,9 @@
         "Includes": [
             "d:\\game development\\unreal engine projects\\afishysituation\\afishysituation\\afishysitaution\\afishysituation\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\afishysituation\\definitions.afishysituation.h",
             "d:\\game development\\unreal engine projects\\afishysituation\\afishysituation\\afishysitaution\\afishysituation\\intermediate\\build\\win64\\unrealeditor\\inc\\afishysituation\\uht\\afishysituation.init.gen.cpp",
+            "d:\\game development\\unreal engine projects\\afishysituation\\afishysituation\\afishysitaution\\afishysituation\\intermediate\\build\\win64\\unrealeditor\\inc\\afishysituation\\uht\\interactables.gen.cpp",
+            "d:\\game development\\unreal engine projects\\afishysituation\\afishysituation\\afishysitaution\\afishysituation\\source\\afishysituation\\jochem\\interactables.h",
+            "d:\\game development\\unreal engine projects\\afishysituation\\afishysituation\\afishysitaution\\afishysituation\\intermediate\\build\\win64\\unrealeditor\\inc\\afishysituation\\uht\\interactables.generated.h",
             "d:\\game development\\unreal engine projects\\afishysituation\\afishysituation\\afishysitaution\\afishysituation\\intermediate\\build\\win64\\unrealeditor\\inc\\afishysituation\\uht\\lo.gen.cpp",
             "d:\\game development\\unreal engine projects\\afishysituation\\afishysituation\\afishysitaution\\afishysituation\\source\\afishysituation\\roy\\lo.h",
             "d:\\game development\\unreal engine projects\\afishysituation\\afishysituation\\afishysitaution\\afishysituation\\intermediate\\build\\win64\\unrealeditor\\inc\\afishysituation\\uht\\lo.generated.h",
