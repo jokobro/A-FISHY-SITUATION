@@ -4,6 +4,7 @@
 		"Module.AFISHYSITUATION.gen.cpp.obj": [
 			"AFISHYSITUATION.init.gen.cpp.obj",
 			"lo.gen.cpp.obj",
+			"MyCharacter.gen.cpp.obj",
 			"MyPawn.gen.cpp.obj",
 			"MyPawn1.gen.cpp.obj",
 			"test.gen.cpp.obj"

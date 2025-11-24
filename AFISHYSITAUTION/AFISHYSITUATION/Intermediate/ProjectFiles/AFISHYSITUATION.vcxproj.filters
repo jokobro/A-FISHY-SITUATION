@@ -64,6 +64,12 @@
     <Filter Include="Source\AFISHYSITUATION\Teshawn">
       <UniqueIdentifier>{A571AD15-7895-3D30-BF0C-8438569D9ECC}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\AFISHYSITUATION\Teshawn\MyCharacter.cpp">
+      <Filter>Source\AFISHYSITUATION\Teshawn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AFISHYSITUATION\Teshawn\MyCharacter.h">
+      <Filter>Source\AFISHYSITUATION\Teshawn</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\AFISHYSITUATION\Teshawn\MyPawn1.cpp">
       <Filter>Source\AFISHYSITUATION\Teshawn</Filter>
     </ClCompile>
