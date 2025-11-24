@@ -99,14 +99,14 @@ Atest::~Atest() {}
 // ********** End Class Atest **********************************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Game_Development_Unreal_Engine_Projects_AFISHYSITUATION_AFISHYSITUATION_AFISHYSITAUTION_AFISHYSITUATION_Source_AFISHYSITUATION_Thomas_test_h__Script_AFISHYSITUATION_Statics
+struct Z_CompiledInDeferFile_FID_Glu_Github_A_FISHY_SITUATION_AFISHYSITAUTION_AFISHYSITUATION_Source_AFISHYSITUATION_Thomas_test_h__Script_AFISHYSITUATION_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_Atest, Atest::StaticClass, TEXT("Atest"), &Z_Registration_Info_UClass_Atest, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(Atest), 62257424U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Game_Development_Unreal_Engine_Projects_AFISHYSITUATION_AFISHYSITUATION_AFISHYSITAUTION_AFISHYSITUATION_Source_AFISHYSITUATION_Thomas_test_h__Script_AFISHYSITUATION_606140894(TEXT("/Script/AFISHYSITUATION"),
-	Z_CompiledInDeferFile_FID_Game_Development_Unreal_Engine_Projects_AFISHYSITUATION_AFISHYSITUATION_AFISHYSITAUTION_AFISHYSITUATION_Source_AFISHYSITUATION_Thomas_test_h__Script_AFISHYSITUATION_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Game_Development_Unreal_Engine_Projects_AFISHYSITUATION_AFISHYSITUATION_AFISHYSITAUTION_AFISHYSITUATION_Source_AFISHYSITUATION_Thomas_test_h__Script_AFISHYSITUATION_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Glu_Github_A_FISHY_SITUATION_AFISHYSITAUTION_AFISHYSITUATION_Source_AFISHYSITUATION_Thomas_test_h__Script_AFISHYSITUATION_606140894(TEXT("/Script/AFISHYSITUATION"),
+	Z_CompiledInDeferFile_FID_Glu_Github_A_FISHY_SITUATION_AFISHYSITAUTION_AFISHYSITUATION_Source_AFISHYSITUATION_Thomas_test_h__Script_AFISHYSITUATION_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Glu_Github_A_FISHY_SITUATION_AFISHYSITAUTION_AFISHYSITUATION_Source_AFISHYSITUATION_Thomas_test_h__Script_AFISHYSITUATION_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

@@ -99,14 +99,14 @@ Alo::~Alo() {}
 // ********** End Class Alo ************************************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Game_Development_Unreal_Engine_Projects_AFISHYSITUATION_AFISHYSITUATION_AFISHYSITAUTION_AFISHYSITUATION_Source_AFISHYSITUATION_Roy_lo_h__Script_AFISHYSITUATION_Statics
+struct Z_CompiledInDeferFile_FID_Glu_Github_A_FISHY_SITUATION_AFISHYSITAUTION_AFISHYSITUATION_Source_AFISHYSITUATION_Roy_lo_h__Script_AFISHYSITUATION_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_Alo, Alo::StaticClass, TEXT("Alo"), &Z_Registration_Info_UClass_Alo, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(Alo), 2520485303U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Game_Development_Unreal_Engine_Projects_AFISHYSITUATION_AFISHYSITUATION_AFISHYSITAUTION_AFISHYSITUATION_Source_AFISHYSITUATION_Roy_lo_h__Script_AFISHYSITUATION_4228688524(TEXT("/Script/AFISHYSITUATION"),
-	Z_CompiledInDeferFile_FID_Game_Development_Unreal_Engine_Projects_AFISHYSITUATION_AFISHYSITUATION_AFISHYSITAUTION_AFISHYSITUATION_Source_AFISHYSITUATION_Roy_lo_h__Script_AFISHYSITUATION_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Game_Development_Unreal_Engine_Projects_AFISHYSITUATION_AFISHYSITUATION_AFISHYSITAUTION_AFISHYSITUATION_Source_AFISHYSITUATION_Roy_lo_h__Script_AFISHYSITUATION_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Glu_Github_A_FISHY_SITUATION_AFISHYSITAUTION_AFISHYSITUATION_Source_AFISHYSITUATION_Roy_lo_h__Script_AFISHYSITUATION_4228688524(TEXT("/Script/AFISHYSITUATION"),
+	Z_CompiledInDeferFile_FID_Glu_Github_A_FISHY_SITUATION_AFISHYSITAUTION_AFISHYSITUATION_Source_AFISHYSITUATION_Roy_lo_h__Script_AFISHYSITUATION_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Glu_Github_A_FISHY_SITUATION_AFISHYSITAUTION_AFISHYSITUATION_Source_AFISHYSITUATION_Roy_lo_h__Script_AFISHYSITUATION_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

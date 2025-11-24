@@ -99,14 +99,14 @@ AMyPawn1::~AMyPawn1() {}
 // ********** End Class AMyPawn1 *******************************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Game_Development_Unreal_Engine_Projects_AFISHYSITUATION_AFISHYSITUATION_AFISHYSITAUTION_AFISHYSITUATION_Source_AFISHYSITUATION_Teshawn_MyPawn1_h__Script_AFISHYSITUATION_Statics
+struct Z_CompiledInDeferFile_FID_Glu_Github_A_FISHY_SITUATION_AFISHYSITAUTION_AFISHYSITUATION_Source_AFISHYSITUATION_Teshawn_MyPawn1_h__Script_AFISHYSITUATION_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AMyPawn1, AMyPawn1::StaticClass, TEXT("AMyPawn1"), &Z_Registration_Info_UClass_AMyPawn1, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AMyPawn1), 4212218817U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Game_Development_Unreal_Engine_Projects_AFISHYSITUATION_AFISHYSITUATION_AFISHYSITAUTION_AFISHYSITUATION_Source_AFISHYSITUATION_Teshawn_MyPawn1_h__Script_AFISHYSITUATION_3441555293(TEXT("/Script/AFISHYSITUATION"),
-	Z_CompiledInDeferFile_FID_Game_Development_Unreal_Engine_Projects_AFISHYSITUATION_AFISHYSITUATION_AFISHYSITAUTION_AFISHYSITUATION_Source_AFISHYSITUATION_Teshawn_MyPawn1_h__Script_AFISHYSITUATION_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Game_Development_Unreal_Engine_Projects_AFISHYSITUATION_AFISHYSITUATION_AFISHYSITAUTION_AFISHYSITUATION_Source_AFISHYSITUATION_Teshawn_MyPawn1_h__Script_AFISHYSITUATION_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Glu_Github_A_FISHY_SITUATION_AFISHYSITAUTION_AFISHYSITUATION_Source_AFISHYSITUATION_Teshawn_MyPawn1_h__Script_AFISHYSITUATION_3441555293(TEXT("/Script/AFISHYSITUATION"),
+	Z_CompiledInDeferFile_FID_Glu_Github_A_FISHY_SITUATION_AFISHYSITAUTION_AFISHYSITUATION_Source_AFISHYSITUATION_Teshawn_MyPawn1_h__Script_AFISHYSITUATION_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Glu_Github_A_FISHY_SITUATION_AFISHYSITAUTION_AFISHYSITUATION_Source_AFISHYSITUATION_Teshawn_MyPawn1_h__Script_AFISHYSITUATION_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************
