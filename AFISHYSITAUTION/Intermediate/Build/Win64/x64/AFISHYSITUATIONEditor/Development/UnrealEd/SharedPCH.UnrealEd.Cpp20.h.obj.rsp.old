@@ -1,4 +1,4 @@
-"D:/Game Development/Unreal Engine Projects/AFISHYSITUATION/AFISHYSITUATION/AFISHYSITAUTION/AFISHYSITUATION/Intermediate/Build/Win64/x64/AFISHYSITUATIONEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.cpp"
+"C:/Glu/Github/A-FISHY-SITUATION/AFISHYSITAUTION/AFISHYSITUATION/Intermediate/Build/Win64/x64/AFISHYSITUATIONEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.cpp"
 /I "."
 /I "../Intermediate/Build/Win64/UnrealEditor/Inc/UnrealEd/UHT"
 /I "Programs/UnrealLightmass/Public"
@@ -309,16 +309,16 @@
 /external:I "ThirdParty/LibTiff/Source/Win64"
 /external:I "ThirdParty/LibTiff/Source"
 /external:I "ThirdParty/OpenGL"
-/external:I "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/INCLUDE"
+/external:I "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/INCLUDE"
 /external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/ucrt"
 /external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/shared"
 /external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/um"
 /external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/winrt"
 /Yc"SharedPCH.UnrealEd.Cpp20.h"
-/Fp"D:/Game Development/Unreal Engine Projects/AFISHYSITUATION/AFISHYSITUATION/AFISHYSITAUTION/AFISHYSITUATION/Intermediate/Build/Win64/x64/AFISHYSITUATIONEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h.pch"
-/Fo"D:/Game Development/Unreal Engine Projects/AFISHYSITUATION/AFISHYSITUATION/AFISHYSITAUTION/AFISHYSITUATION/Intermediate/Build/Win64/x64/AFISHYSITUATIONEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h.obj"
-/experimental:log "D:/Game Development/Unreal Engine Projects/AFISHYSITUATION/AFISHYSITUATION/AFISHYSITAUTION/AFISHYSITUATION/Intermediate/Build/Win64/x64/AFISHYSITUATIONEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h.sarif"
-/sourceDependencies "D:/Game Development/Unreal Engine Projects/AFISHYSITUATION/AFISHYSITUATION/AFISHYSITAUTION/AFISHYSITUATION/Intermediate/Build/Win64/x64/AFISHYSITUATIONEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h.dep.json"
+/Fp"C:/Glu/Github/A-FISHY-SITUATION/AFISHYSITAUTION/AFISHYSITUATION/Intermediate/Build/Win64/x64/AFISHYSITUATIONEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h.pch"
+/Fo"C:/Glu/Github/A-FISHY-SITUATION/AFISHYSITAUTION/AFISHYSITUATION/Intermediate/Build/Win64/x64/AFISHYSITUATIONEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h.obj"
+/experimental:log "C:/Glu/Github/A-FISHY-SITUATION/AFISHYSITAUTION/AFISHYSITUATION/Intermediate/Build/Win64/x64/AFISHYSITUATIONEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h.sarif"
+/sourceDependencies "C:/Glu/Github/A-FISHY-SITUATION/AFISHYSITAUTION/AFISHYSITUATION/Intermediate/Build/Win64/x64/AFISHYSITUATIONEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h.dep.json"
 /Zc:inline
 /nologo
 /Oi
