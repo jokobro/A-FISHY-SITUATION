@@ -3,17 +3,17 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "GameFramework/Pawn.h"
-#include "MyPawn1.generated.h"
+#include "GameFramework/Character.h"
+#include "NPC_Dialogue.generated.h"
 
 UCLASS()
-class AFISHYSITUATION_API AMyPawn1 : public APawn
+class AFISHYSITUATION_API ANPC_Dialogue : public ACharacter
 {
 	GENERATED_BODY()
 
 public:
-	// Sets default values for this pawn's properties
-	AMyPawn1();
+	// Sets default values for this character's properties
+	ANPC_Dialogue();
 
 protected:
 	// Called when the game starts or when spawned
