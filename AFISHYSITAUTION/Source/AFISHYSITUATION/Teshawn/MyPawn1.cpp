@@ -1,32 +1,32 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 
-#include "Teshawn/NPC_Dialogue.h"
+#include "Teshawn/MyPawn1.h"
 
 // Sets default values
-ANPC_Dialogue::ANPC_Dialogue()
+AMyPawn1::AMyPawn1()
 {
- 	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
+ 	// Set this pawn to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
 }
 
 // Called when the game starts or when spawned
-void ANPC_Dialogue::BeginPlay()
+void AMyPawn1::BeginPlay()
 {
 	Super::BeginPlay();
 	
 }
 
 // Called every frame
-void ANPC_Dialogue::Tick(float DeltaTime)
+void AMyPawn1::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
 }
 
 // Called to bind functionality to input
-void ANPC_Dialogue::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
+void AMyPawn1::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
