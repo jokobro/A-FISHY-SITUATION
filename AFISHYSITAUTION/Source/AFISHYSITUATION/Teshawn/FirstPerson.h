@@ -19,7 +19,7 @@ protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
-public:	
+public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
@@ -27,9 +27,10 @@ public:
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
 protected:
-	UPROPERTY(EditAnywhere)
-
-	class UCameraComponent* camera;
+	//components
+	UPROPERTY(EditAnywhere) class UCameraComponent* camera;
+	UPROPERTY(EditAnywhere) class UBoxComponent* boxComp;
+	UPROPERTY(EditAnywhere) class UStaticMeshComponent* baseMesh;
 
 	void MoveForward(float inputValue);
 	void MoveRight(float inputValue);
